@@ -1,0 +1,8 @@
+flask
+numpy
+librosa
+soundfile
+opencv-python
+gunicorn
+tensorflow-cpu
+opencv-python-headless
